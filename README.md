@@ -12,7 +12,7 @@ published in COLING 2020.
 - Segment-level annotations: data/ende.tsv  
 - Token-level annotations: data/ende_tokens.tsv  
 
-## Annotation guideline:
+## Annotation guidelines:
 - Guidelines for error annotation
 - MQM decision tree
 
